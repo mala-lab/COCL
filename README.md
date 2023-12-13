@@ -14,7 +14,7 @@ For [CIFAR10-LT]() and [CIFAR100-LT](), please download [TinyImages 300K Random 
 
 For [CIFAR10-LT]() and [CIFAR100-LT](), please download [SC-OOD](https://jingkang50.github.io/projects/scood) benchmark  for out-of-distribution in `./datasets` 
 
-For [ImageNet-LT]([Large-Scale Long-Tailed Recognition in an Open World (liuziwei7.github.io)](https://liuziwei7.github.io/projects/LongTail.html)), please download [ImageNet10k_eccv2010](https://image-net.org/data/imagenet10k_eccv2010.tar) benchmark for auxiliary and out-of-distribution in `./datasets` 
+For [ImageNet-LT](https://liuziwei7.github.io/projects/LongTail.html), please download [ImageNet10k_eccv2010](https://image-net.org/data/imagenet10k_eccv2010.tar) benchmark for auxiliary and out-of-distribution in `./datasets` 
 
 All datasets follow [PASCL](https://github.com/amazon-science/long-tailed-ood-detection)
 
