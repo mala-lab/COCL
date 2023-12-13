@@ -6,7 +6,7 @@ This is the official implementation of the [Out-of-Distribution Detection in Lon
 
 ### In-distribution dataset
 
-Please download [CIFAR10](), [CIFAR100](), and [ImageNet-LT]([Large-Scale Long-Tailed Recognition in an Open World (liuziwei7.github.io)](https://liuziwei7.github.io/projects/LongTail.html)) , place them  in`./datasets` 
+Please download [CIFAR10](), [CIFAR100](), and [ImageNet-LT](https://liuziwei7.github.io/projects/LongTail.html) , place them  in`./datasets` 
 
 ### Auxiliary/Out-of-distribution dataset
 
