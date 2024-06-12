@@ -1,6 +1,6 @@
 # Out-of-Distribution Detection in Long-Tailed Recognition with Calibrated Outlier Class Learning
 
-This is the official implementation of the [Out-of-Distribution Detection in Long-Tailed Recognition with Calibrated Outlier Class Learning]()
+This is the official implementation of the AAAI'24 paper titled [Out-of-Distribution Detection in Long-Tailed Recognition with Calibrated Outlier Class Learning]()
 
 ## Dataset Preparation
 
@@ -86,3 +86,17 @@ Long-Tailed-Recognition.pytorch - https://github.com/KaihuaTang/Long-Tailed-Reco
 ## License
 
 This project is licensed under the Apache-2.0 License.
+
+## Citation
+If you use this package and find it useful, please cite our paper using the following BibTeX. 
+```bibtex
+@inproceedings{miao2024out,
+  title={Out-of-distribution detection in long-tailed recognition with calibrated outlier class learning},
+  author={Miao, Wenjun and Pang, Guansong and Bai, Xiao and Li, Tianqi and Zheng, Jin},
+  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
+  volume={38},
+  number={5},
+  pages={4216--4224},
+  year={2024}
+}
+```
